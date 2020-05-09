@@ -1,0 +1,65 @@
+.containerbody{
+    display: flex;
+
+}
+
+.containerLeft{
+    background-color: white;
+    width: 60%;
+    
+}
+
+.containerLeft p{
+   text-align: center;
+}
+
+.containerLeft{
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.containerLeft ul{
+    list-style: none;
+    text-align: left;
+    margin-left: 130px;
+    margin-bottom: 80px;
+    color: #4B4B4C;
+}
+
+.indice{
+    font-size: 18px;
+    color:rgb(9, 85, 146);
+    font-style: 
+}
+
+.containerRight img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 1px;
+    margin: 15px auto ;
+}
+
+.dominioh1{
+    margin-bottom: 50px;
+    color: steelblue;
+    
+}
+
+.dominioh1 span{
+    color: rgb(9, 85, 146);
+    font-weight: 1000;
+}
+
+.containerRight{
+    background-color: dodgerblue;
+    width: 40%;
+    height: 700px;
+}
+
+#resultado{
+    /*background-color: yellowgreen;*/
+    padding: 10px;
+    margin-top: -15px;
+    color: teal;
+}
